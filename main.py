@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 This will import all modules with name group*.py
 and print the result of the corresponding tweet() function
