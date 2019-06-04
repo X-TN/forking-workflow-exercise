@@ -1,2 +1,2 @@
 def tweet():
-	return "this is a tweet example"
+    return "conflict! no more"
